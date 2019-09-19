@@ -6,7 +6,3 @@ AA
 vvvvvvvvvvvvvvvvv
 WWWWWWWWWWWWWWWWWW
 
-AAaa
-
-bbbb
-AAAAAAAAAAAAAAAA
