@@ -1,5 +1,3 @@
-DOUBLE MAY
-whydoublemay
 oooooooooooooo
 aaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
@@ -7,4 +5,3 @@ cccccccccccccccccccccc
 DDDDDDDDDDDDDDDDDDDDDDDDD
 EEEEEEEEEEEEEEEEEEEEEEEEEEEE
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
-
