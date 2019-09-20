@@ -3,11 +3,5 @@ aaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
 AABBCC
 DDDDDDDDDDD
-EEEEEEEEEEEEEEEEEE
-JAM TEST
-AAAAAAAAAAAAAAAAAAAAAA
-ow1111111
-FIND THE USER TO 1
-...............................
-nonono
-aaaaaaaaaaaaaaaaaaaa
+JAMESTEST 
+JAM-1 AAA
