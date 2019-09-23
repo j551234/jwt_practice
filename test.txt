@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 james is typing something
+=======
+oooooooooooooo
+test20190920
+>>>>>>> 22d7ef86bca0cdf05825b703e827d85bb82885c5
